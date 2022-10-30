@@ -1,0 +1,39 @@
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe.config
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.pdb
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.AssemblyReference.cache
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.GenerateResource.cache
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.CoreCompileInputs.cache
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.exe
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.pdb
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe.config
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.pdb
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.AssemblyReference.cache
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.GenerateResource.cache
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.CoreCompileInputs.cache
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.exe
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.pdb
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.BreakGame.resources
+C:\Users\RISPC12\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.BreakGame.resources
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Welcome.resources
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Loss.resources
+C:\Users\kiliz\OneDrive - Sunny Development New Zealand Ltd\New folder\Coding\Coding\C#\Assignment 2\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Win.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe.config
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.exe
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\bin\Debug\Breakout Game.pdb
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.AssemblyReference.cache
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.BreakGame.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Loss.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Properties.Resources.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Welcome.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout_Game.Win.resources
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.GenerateResource.cache
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.csproj.CoreCompileInputs.cache
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.exe
+C:\Users\kiliz\OneDrive\Desktop\dev\Assignment 2- Xiaoyu Zhou-1565763\Breakout Game\obj\Debug\Breakout Game.pdb
